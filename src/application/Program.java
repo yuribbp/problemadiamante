@@ -13,6 +13,6 @@ public class Program {
 		
 		Scanner s = new Scanner("2003");
 		s.processDoc("My e-mail");
-		System.out.println("Scan resulta: " + s.scan());
+		System.out.println("Scan result: " + s.scan());
 	}
 }
